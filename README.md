@@ -1,3 +1,6 @@
+## Este projeto foi produzido nos estudos de React Hooks e Redux da Rocketseat.
+<img src="/src/assets/gif.gif">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running
